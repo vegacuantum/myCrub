@@ -32,7 +32,7 @@
                           <input type="text" name="password" class="form-control" placeholder="contraseña">
                         </div>
 
-                        <div class="mr-2 mb-2 mt-2 col-auto">
+                        <div class="mb-2 mt-2 col-auto">
                           @csrf
                           <button type="submit" class="btn btn-primary">Enviar</button>
                         </div>
