@@ -17,7 +17,7 @@
             <div class="row">
                 <div class="col-sm-8 mx-auto">
                   <div class=" card">
-                  <h1>Crear un usuarios</h1>
+                  <h1>Crear un usuarios 2.0</h1>
                     <form action="{{ route('store') }}" method="POST">
                       <div class="row">
                         <div class=" col-sm-3">
